@@ -44,7 +44,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: koonlookhin190/234-deploylab-backend-prod:latest
+          tags: poomkingzaa78/234-deploylab-backend-prod:latest
       -
         name: prepare the docker-compose run
         run: |
